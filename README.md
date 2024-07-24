@@ -13,8 +13,6 @@ A Java-based Event Management System built using NetBeans IDE.
 - [Usage](#usage)
 - [Screenshots](#screenshots)
 - [Contributing](#contributing)
-- [License](#license)
-- [Back to Top](#back-to-top)
 
 ## Introduction
 
@@ -91,16 +89,11 @@ Here are some screenshots of the application in action:
 5. Push to the branch (`git push origin feature-branch`).
 6. Open a Pull Request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Member
 
 T. PRAMODH KUMAR 
 
-Project Link: [https://github.com/your-username/event-management](https://github.com/Pramodh9653/event-management)
-
-## Back to Top
+Project Link: [https://github.com/Pramodh9653/Event-Ease](https://github.com/Pramodh9653/Event-Ease)
 
 [Back to top](#event-management-system)
