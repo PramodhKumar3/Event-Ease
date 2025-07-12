@@ -94,6 +94,6 @@ Here are some screenshots of the application in action:
 
 T. PRAMODH KUMAR 
 
-Project Link: [https://github.com/Pramodh9653/Event-Ease](https://github.com/Pramodh9653/Event-Ease)
+Project Link: [https://github.com/Pramodh9653/Event-Ease](https://github.com/PramodhKumar3/Event-Ease)
 
 [Back to top](#event-management-system)
